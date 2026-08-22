@@ -1,0 +1,6 @@
+SpeechRecognition==3.10.0
+bing-image-downloader==1.18.24
+Pillow==10.1.0
+opencv-python==4.8.1.78
+pydub==0.25.1
+requests==2.31.0
